@@ -7,4 +7,5 @@
 # Contact ✉️
 
 • You can contact me on *Discord*, My username is: `27Saumya#0007`
+
 • You can also contact me on my mail ✉️, My Email is: `patelsaumya767@gmail.com`
