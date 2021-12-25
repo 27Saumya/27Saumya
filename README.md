@@ -5,8 +5,8 @@
 • I am a proffessional `Discord Bot` developer
 
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" aria-label="Link to create your own github stats image"><img alt="27Saumya's github stats" src="https://github-readme-stats.vercel.app/api?username=27Saumya&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&bg_color=0d1117" /></a></p>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" aria-label="Link to create your own github stats image"><img alt="27Saumya's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27Saumya&theme=dark&langs_count=10&hide=sourcepawn&layout=compact&hide_border=true&card_width=445&bg_color=0d1117" /></a></p>
+<p align="left"><a href="https://github.com/anuraghazra/github-readme-stats" aria-label="Link to create your own github stats image"><img alt="27Saumya's github stats" src="https://github-readme-stats.vercel.app/api?username=27Saumya&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&bg_color=0d1117" /></a></p>
+<p align="leftr"><a href="https://github.com/anuraghazra/github-readme-stats" aria-label="Link to create your own github stats image"><img alt="27Saumya's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27Saumya&theme=dark&langs_count=10&hide=sourcepawn&layout=compact&hide_border=true&card_width=445&bg_color=0d1117" /></a></p>
 
 
 # Contact ✉️
