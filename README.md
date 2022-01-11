@@ -11,6 +11,8 @@
 
 # Contact ✉️
 
-• You can contact me on *Discord*, My username is: `27Saumya#9303`
+• Discord:
+
+[![](https://discord.c99.nl/widget/theme-4/917693263480229918.png)
 
 • You can also contact me on my mail ✉️, My email is: `patelsaumya767@gmail.com`
