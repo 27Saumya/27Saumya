@@ -2,7 +2,7 @@
 
 • I am a backend python🐍 developer
 
-• I am a proffessional `Discord Bot` developer
+• I am a professional `Discord Bot` developer
 
 
 <p align="left"><a href="https://github.com/anuraghazra/github-readme-stats" aria-label="Link to create your own github stats image"><img alt="27Saumya's github stats" src="https://github-readme-stats.vercel.app/api?username=27Saumya&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&bg_color=0d1117" /></a></p>
