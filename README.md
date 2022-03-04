@@ -27,4 +27,4 @@ alt="Github streaks">
 
 • You can also contact me on my mail ✉️, My email is: `patelsaumya767@gmail.com`
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=27Saumya&label=Profile%20views&color=00ffff&style=flat" alt="27Saumya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=27Saumya&label=Profile%20views&color=00ffff&style=flat" alt="27Saumya" /> </p>
