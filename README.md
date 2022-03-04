@@ -6,6 +6,7 @@
 
 • Developer of [Yuki ✨](https://github.com/27Saumya/Yuki)
 
+• Learning Rust 🦀
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=27Saumya&count_private=true&show_icons=true&theme=cobalt" alt="Github Readme stats">
@@ -25,3 +26,5 @@ alt="Github streaks">
 [![](https://discord.c99.nl/widget/theme-4/917693263480229918.png)](https://discord.gg/RqKvY5MQgb)
 
 • You can also contact me on my mail ✉️, My email is: `patelsaumya767@gmail.com`
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=27Saumya&label=Profile%20views&color=00ffff&style=flat" alt="27Saumya" /> </p>
