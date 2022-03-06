@@ -18,6 +18,22 @@ alt="Github streaks">
 </div
 <p align="leftr"><a href="https://github.com/anuraghazra/github-readme-stats" aria-label="Link to create your own github stats image"><img alt="27Saumya's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27Saumya&theme=dark&langs_count=10&hide=sourcepawn&layout=compact&hide_border=true&card_width=445&bg_color=0d1117" /></a></p>
 
+## Languages, Databases and Tools:
+**Programming Languages**
+
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="Rust-Lang" title="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png">
+|--|--|
+
+**Databases**
+
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MySql" alt="Mysql" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">|<img title="Postgresql" alt="postgresql" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">|<img title="Postgresql" alt="postgresql" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"><br>
+|--|--|--|--|
+
+**Tools**
+
+<img title="Debain" alt="Debian-Linux" width="40px" src="https://brandslogos.com/wp-content/uploads/thumbs/debian-logo-vector.svg">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+|--|--|--|
+<br>
 
 # Contact ✉️
 
