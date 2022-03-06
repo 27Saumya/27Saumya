@@ -1,12 +1,14 @@
 ## Hey there, I'm 27Saumya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-• I am a backend python🐍 developer
+- 👨🏽‍💻 I am a developer trying to find projects to work with and always be engaged.
 
-• I am a professional `Discord Bot` developer
+- 🤖 I make discord bots.
 
-• Developer of [Yuki ✨](https://github.com/27Saumya/Yuki)
+- 🧑‍💻 Developer of [Yuki ✨](https://github.com/27Saumya/Yuki).
 
-• Learning Rust 🦀
+- 🦀 Learning Rust.
+
+- 😪 Currently working on many things and I need rest lol.
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=27Saumya&count_private=true&show_icons=true&theme=cobalt" alt="Github Readme stats">
