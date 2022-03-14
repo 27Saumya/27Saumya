@@ -43,6 +43,6 @@ alt="Github streaks">
 
 <a href="mailto:patelsaumya767@gmail.com">
 <img title="Gmail" alt="Google-Mail" width="75px" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg">
-<\a>
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=27Saumya&label=Profile%20views&color=00ffff&style=flat" alt="27Saumya" /> </p>
