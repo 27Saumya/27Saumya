@@ -42,7 +42,7 @@ alt="Github streaks">
 [![](https://discord.c99.nl/widget/theme-4/917693263480229918.png)](https://discord.gg/RqKvY5MQgb)
 
 <a href="mailto:patelsaumya767@gmail.com">
-<img title="Gmail" alt="Google-Mail" width="75px" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg">
-</a> <a href="https://instagram.com/saumya._27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saumya._27" width="75px" /></a>
+<img title="Gmail" alt="Google-Mail" width="75px" height="50px" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg">
+</a> <a href="https://instagram.com/saumya._27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saumya._27" width="75px" height="50px" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=27Saumya&label=Profile%20views&color=00ffff&style=flat" alt="27Saumya" /> </p>
