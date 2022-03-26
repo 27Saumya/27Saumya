@@ -1,10 +1,10 @@
 ## Namaste 🙏, I'm 27Saumya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 👨🏽‍💻 I am a developer trying to find projects to work with and always be engaged.
+- 👨‍💻 I am a developer trying to find projects to work with and always be engaged.
 
-- 🤖 I make discord bots.
+- 🤖 I love make discord bots.
 
-- 🧑‍💻 Developer of [Yuki ✨](https://github.com/27Saumya/Yuki).
+- 🧑‍💻 Developer of [Yuki ✨](https://github.com/27Saumya/Yuki) (Verified Discord Bot).
 
 - 🦀 Learning Rust.
 
@@ -46,3 +46,5 @@ alt="Github streaks">
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=27Saumya&label=Profile%20views&color=00ffff&style=flat" alt="27Saumya" /> </p>
+
+## ❤ Thanks for reading my README using your valuable time!
