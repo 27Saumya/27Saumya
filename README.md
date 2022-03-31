@@ -10,6 +10,8 @@
 
 - 😪 Currently working on many things and I need rest lol.
 
+- 🎮 Chill Gamer!
+
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=27Saumya&count_private=true&show_icons=true&theme=cobalt" alt="Github Readme stats">
 </div>
