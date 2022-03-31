@@ -19,12 +19,15 @@
 alt="Github streaks">
 </div>
 
+![Saumya Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=27Saumya&theme=solarized_dark)
+![Saumya Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=27Saumya&theme=solarized_dark)
+
 ## 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=27Saumya&column=8&theme=discord&no-frame=true&no-bg=true"/>
 </a>
 
-## Languages, Databases and Tools:
+## 🤟 Languages, Databases and Tools:
 **Programming Languages**
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="Rust-Lang" title="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png">
@@ -41,7 +44,7 @@ alt="Github streaks">
 |--|--|--|--|
 <br>
 
-# Contact ✉️
+## ✉ Contact
 
 [![](https://discord.c99.nl/widget/theme-4/917693263480229918.png)](https://discord.com/users/917693263480229918)
 
