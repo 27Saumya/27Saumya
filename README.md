@@ -17,8 +17,12 @@
 <div align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=27Saumya&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"
 alt="Github streaks">
-</div
-<p align="leftr"><a href="https://github.com/anuraghazra/github-readme-stats" aria-label="Link to create your own github stats image"><img alt="27Saumya's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27Saumya&theme=dark&langs_count=10&hide=sourcepawn&layout=compact&hide_border=true&card_width=445&bg_color=0d1117" /></a></p>
+</div>
+
+## 🏆 GitHub Profile Trophy:
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=27Saumya&column=8&theme=discord&no-frame=true&no-bg=true"/>
+</a>
 
 ## Languages, Databases and Tools:
 **Programming Languages**
