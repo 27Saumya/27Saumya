@@ -12,6 +12,8 @@
 
 - 🎮 Chill Gamer!
 
+- 🖤 This README will suck if you are on light mode
+
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=27Saumya&count_private=true&show_icons=true&theme=cobalt" alt="Github Readme stats">
 </div>
