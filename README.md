@@ -44,7 +44,7 @@ alt="Github streaks">
 |--|--|--|--|
 <br>
 
-## ✉ Contact
+## ✉ Contact Me!
 
 [![](https://discord.c99.nl/widget/theme-4/917693263480229918.png)](https://discord.com/users/917693263480229918)
 
