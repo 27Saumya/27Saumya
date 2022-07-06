@@ -8,7 +8,7 @@
 
 - 🦀 Learning Rust.
 
-- 🍥 I am a Weeb UwU
+- 🍥 I am a Weeb!
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=27Saumya&count_private=true&show_icons=true&theme=cobalt" alt="Github Readme stats">
