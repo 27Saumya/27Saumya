@@ -54,4 +54,4 @@ alt="Github streaks">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=27Saumya&label=Profile%20views&color=00ffff&style=flat" alt="27Saumya" /> </p>
 
-#### ❤ Thanks alot for reading my README and wasting your valuable time 😂
+#### ❤ Thanks a ton for reading my README and wasting your valuable time 😂
