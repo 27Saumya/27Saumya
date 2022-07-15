@@ -2,7 +2,7 @@
 
 - 👨‍💻 I am a developer trying to find projects to work with and always be engaged.
 
-- 🤖 I love making discord bots.
+- 🤖 I love making discord bots!
 
 - 🧑‍💻 Developer of [Yuki ✨](https://github.com/27Saumya/Yuki) (Verified Discord Bot).
 
