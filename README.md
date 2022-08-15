@@ -4,9 +4,7 @@
 
 - 🤖 I love making discord bots!
 
-- 🧑‍💻 Developer of [Yuki ✨](https://github.com/27Saumya/Yuki) (Verified Discord Bot).
-
-- 🦀 Learning Rust.
+- 🧑‍💻 Developer of [Yuki ✨](https://github.com/27Saumya/Yuki) (Verified Discord Bot)
 
 - 🍥 I am a Weeb!
 
