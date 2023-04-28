@@ -1,6 +1,6 @@
 ## Hey, I'm Saumya Patel<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 👨‍💻 ~~I am a developer trying to find projects to work with and always be engaged!~~
+- 👨‍💻 I am a developer trying to find projects to work with and always be engaged!
 
 - 🤖 I love making discord bots!
 
