@@ -17,8 +17,8 @@
 alt="Github streaks">
 </div>
 
-![Saumya Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=27Saumya&theme=blue-green)
-![Saumya Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=27Saumya&theme=blue-green)
+![Saumya Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=27Saumya&theme=solarized_dark)
+![Saumya Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=27Saumya&theme=solarized_dark)
 
 ## 🏆 GitHub Profile Trophies:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
