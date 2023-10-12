@@ -30,9 +30,11 @@ alt="Github streaks">
 
 **Tools**
 
-<img title="React" alt="React-JSX" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />|<img title="Next" alt="NextJSX" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">|<img title="Debain" alt="Debian-Linux" width="40px" src="https://brandslogos.com/wp-content/uploads/thumbs/debian-logo-vector.svg">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="GCP" alt="Google-Cloud-Platform" width="40px" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg">|<img title="Railway" width="40px" src="https://railway.app/brand/logo-light.svg">|<img title="Vercel" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/vercel/vercel.png">
-|--|--|--|--|--|--|--|--|
-<br>
+<img title="React" alt="React-JSX" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />|<img title="Next" alt="NextJSX" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">|<img title="Debain" alt="Debian-Linux" width="40px" src="https://brandslogos.com/wp-content/uploads/thumbs/debian-logo-vector.svg">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Neovim" alt="Nvim" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/neovim/neovim.png"><br>
+|--|--|--|--|--|--|
+
+<img title="GCP" alt="Google-Cloud-Platform" width="40px" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg">|<img title="Railway" width="40px" src="https://railway.app/brand/logo-light.svg">|<img title="Vercel" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/vercel/vercel.png"><br>
+|--|--|--|
 
 ## ✉ Contact Me!
 
