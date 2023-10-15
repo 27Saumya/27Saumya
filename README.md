@@ -1,10 +1,6 @@
 ## Hey, I'm Saumya
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=27Saumya&count_private=true&show_icons=true&theme=cobalt" alt="Github Readme stats">
-</div>
-
-<div align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=27Saumya&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"
 alt="Github streaks">
 </div>
