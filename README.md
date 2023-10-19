@@ -13,25 +13,4 @@ alt="Github streaks">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=27Saumya&column=8&theme=discord&no-frame=true&no-bg=true"/>
 </a>
 
-## 🤟 Languages, Databases and Tools:
-**Programming Languages**
-
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />|<img alt="TS" title="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />|<img alt="Rust-Lang" title="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />
-|--|--|--|--|
-
-**Databases**
-
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MySql" alt="Mysql" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">|<img title="Postgresql" alt="postgresql" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">|<img title="MongoDB" alt="Mongo" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="SQLITE" alt="sqlite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"><br>
-|--|--|--|--|--|
-
-**Tools**
-
-<img title="React" alt="React-JSX" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />|<img title="Next" alt="NextJSX" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">|<img title="Debain" alt="Debian-Linux" width="40px" src="https://brandslogos.com/wp-content/uploads/thumbs/debian-logo-vector.svg">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Neovim" alt="Nvim" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/neovim/neovim.png"><br>
-|--|--|--|--|--|--|
-
-<img title="GCP" alt="Google-Cloud-Platform" width="40px" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg">|<img title="Railway" width="40px" src="https://railway.app/brand/logo-light.svg">|<img title="Vercel" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/vercel/vercel.png"><br>
-|--|--|--|
-
-## ✉ Contact Me!
-
 [![](https://discord.c99.nl/widget/theme-4/917693263480229918.png)](https://discord.com/users/917693263480229918)
