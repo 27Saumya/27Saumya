@@ -8,7 +8,7 @@ alt="Github streaks">
 ![Saumya Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=27Saumya&theme=solarized_dark)
 ![Saumya Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=27Saumya&theme=solarized_dark)
 
-## 🏆 GitHub Profile Trophies:
+## GitHub Profile Trophies:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=27Saumya&column=8&theme=discord&no-frame=true&no-bg=true"/>
 </a>
