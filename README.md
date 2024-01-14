@@ -12,7 +12,7 @@ alt="Github streaks">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=27Saumya&column=8&theme=discord&no-frame=true&no-bg=true"/>
 </a>
 
-### Chat with me on
+### Contact
 
 [![](https://discord.c99.nl/widget/theme-4/917693263480229918.png)](https://discord.com/users/917693263480229918)
 
