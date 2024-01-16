@@ -16,4 +16,4 @@ alt="Github streaks">
 
 [![](https://discord.c99.nl/widget/theme-4/917693263480229918.png)](https://discord.com/users/917693263480229918)
 
-Also look out [my personal website](https://saumya.vercel.app/contact)
+Also check out [my personal website](https://saumya.vercel.app/contact)
