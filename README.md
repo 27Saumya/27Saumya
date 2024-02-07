@@ -1,4 +1,4 @@
-## Hey, I'm Saumya!
+## Hey, I'm Saumya! 👋
 
 <div align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=27Saumya&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"
