@@ -12,6 +12,6 @@ alt="Github streaks">
 
 ### Contact
 
-[![](https://discord.c99.nl/widget/theme-4/917693263480229918.png)](https://discord.com/users/917693263480229918)
+![saumya-card](https://github.com/27Saumya/27Saumya/assets/64534496/1ffef1d2-2bf7-4779-9aef-004e9afeb721)
 
 Also check out [my personal website](https://saumya.vercel.app/)!
