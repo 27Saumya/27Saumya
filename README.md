@@ -14,4 +14,4 @@ alt="Github streaks">
 
 ![saumya-card](https://github.com/27Saumya/27Saumya/assets/64534496/1ffef1d2-2bf7-4779-9aef-004e9afeb721)
 
-Also check out [my personal website](https://saumya.vercel.app/)!
+Also check out -> [my personal website](https://saumya.vercel.app/)
