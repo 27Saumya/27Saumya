@@ -12,6 +12,6 @@ alt="Github streaks">
 
 ### Contact
 
-![saumya-card](https://github.com/27Saumya/27Saumya/assets/64534496/1ffef1d2-2bf7-4779-9aef-004e9afeb721)
+![saumya-card](https://github.com/27Saumya/27Saumya/assets/64534496/a4ca793d-2e99-4b5d-8acf-1e62ee4888f2)
 
 Also check out -> [my personal website](https://saumya.vercel.app/)
